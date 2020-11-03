@@ -1,0 +1,46 @@
+html {
+    font-family: "Helvetica";
+}
+
+h1 {
+    color: #375e97;
+    font-family: "Georgia";
+    font-size: 2em;
+    border-bottom: dotted;
+    border-width: 5px;
+    line-height: 50px;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+p{
+    line-height: 25px;
+}
+
+.work-title {
+    color: #999999;
+    font-weight: bold;
+}
+
+ul {
+    background-color: #eeeeee;
+    border-style: solid;
+    border-color: purple;
+    border-width: 5px;
+    padding: 25px;
+    line-height: 30px;
+}
+
+a:link {
+    color: #82b8de;
+}
+
+a:visited {
+    color: #2b99e6;
+}
+
+a:hover {
+    text-decoration: none;
+}
